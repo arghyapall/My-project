@@ -1,0 +1,201 @@
+GENDER,RESIDENCY,YEAR OF ENROLLMENT IN GRADUATION,HONOURS SUBJECT,FAMILY INCOME(MONTHLY),PARENT'S QUALIFICATION,MEDIUM OF STUDY(H.S),LEVEL OF FACING PROBLEM DUE TO MEDIUM,TEACHING METHOD BY THE PROFESSORS,SATISFACTION LEVEL,SINCERITY & PUNCTUALITY OF THE PROFESSORS,SOURCE OF MOTIVATION,PREFERABLE FIELD WORK IN FUTURE,HIGHER STUDY EXPECTATION,UNIVERSITY PREFERENCE,SATISFACTION LEVEL WITH THE DUCATION
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,completely,completely,parents ,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,patially,completely,teachers,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,completely,completely,teachers,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,completely,completely,teachers,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,completely,completely,parents ,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,zoology,15000-25000,high school,bengali,too much,discussion method,completely,completely,experienced people,sports,masters,same university,satisfied
+MALE,rural ,2015,zoology,15000-25000,high school,bengali,too much,discussion method,completely,completely,experienced people,sports,masters,same university,satisfied
+MALE,rural ,2015,zoology,15000-25000,high school,bengali,too much,discussion method,patially,completely,experienced people,sports,masters,same university,satisfied
+MALE,rural ,2015,zoology,5000-15000,high school,bengali,too much,discussion method,patially,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,zoology,5000-15000,high school,bengali,too much,lecture method,patially,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,zoology,5000-15000,intermediate,bengali,too much,lecture method,patially,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,zoology,5000-15000,intermediate,bengali,too much,lecture method,completely,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,zoology,5000-15000,intermediate,bengali,too much,lecture method,completely,completely,self motivated,sports,MBA,other,satisfied
+MALE,rural ,2015,zoology,5000-15000,intermediate,bengali,too much,lecture method,completely,completely,self motivated,sports,MBA,other,satisfied
+FEMALE ,urban,2014,statistics,15000-25000,graduation,english,not at all,discussion method,patially,completely,self motivated,writing,masters,same university,satisfied
+FEMALE ,urban,2014,statistics,15000-25000,graduation,english,not at all,discussion method,patially,partially,self motivated,writing,masters,same university,satisfied
+FEMALE ,urban,2014,statistics,15000-25000,graduation,english,not at all,lecture method,patially,partially,self motivated,writing,masters,same university,satisfied
+FEMALE ,urban,2014,geography,25000-35000,graduation,bengali,too much,lecture method,patially,partially,parents ,writing,MBA,other,satisfied
+FEMALE ,urban,2014,geography,25000-35000,graduation,english,not at all,lecture method,patially,partially,parents ,writing,MBA,other,satisfied
+FEMALE ,urban,2015,geography,25000-35000,graduation,english,not at all,lecture method,patially,partially,parents ,writing,MBA,other,satisfied
+FEMALE ,urban,2015,geography,25000-35000,post graduation,english,not at all,lecture method,patially,partially,parents ,writing,MBA,other,satisfied
+FEMALE ,urban,2015,geography,25000-35000,post graduation,english,not at all,lecture method,patially,partially,parents ,writing,MBA,other,disdatisfied
+FEMALE ,urban,2015,geology,5000-15000,high school,hindi,little bit,lecture method,completely,partially,teachers,writing,MBA,other,disdatisfied
+FEMALE ,rural ,2015,geology,5000-15000,intermediate,hindi,little bit,lecture method,completely,partially,teachers,writing,MBA,other,disdatisfied
+FEMALE ,rural ,2015,geology,5000-15000,intermediate,hindi,little bit,lecture method,completely,partially,teachers,writing,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,5000-15000,intermediate,hindi,little bit,lecture method,completely,partially,teachers,writing,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,5000-15000,intermediate,hindi,little bit,lecture method,patially,partially,teachers,writing,MBA,other,satisfied
+FEMALE ,rural ,2015,chemistry,15000-25000,intermediate,hindi,little bit,lecture method,patially,partially,teachers,writing,MBA,other,satisfied
+MALE,rural ,2015,chemistry,15000-25000,intermediate,hindi,little bit,discussion method,patially,partially,teachers,service,MBA,other,satisfied
+MALE,rural ,2015,chemistry,15000-25000,intermediate,hindi,little bit,discussion method,not at all,partially,teachers,service,masters,same university,very dissatisfied
+MALE,rural ,2015,chemistry,15000-25000,intermediate,hindi,too much,discussion method,not at all,not at all,teachers,service,masters,same university,very dissatisfied
+MALE,rural ,2015,chemistry,15000-25000,intermediate,bengali,too much,discussion method,not at all,not at all,teachers,service,masters,same university,very dissatisfied
+FEMALE ,rural ,2015,chemistry,15000-25000,intermediate,bengali,too much,discussion method,not at all,not at all,teachers,service,masters,same university,very dissatisfied
+FEMALE ,urban,2015,chemistry,15000-25000,graduation,english,not at all,discussion method,not at all,not at all,teachers,service,masters,same university,very dissatisfied
+FEMALE ,urban,2015,chemistry,15000-25000,graduation,english,not at all,demonstration,completely,partially,teachers,service,masters,same university,satisfied
+FEMALE ,urban,2015,chemistry,15000-25000,graduation,english,not at all,demonstration,completely,partially,teachers,service,masters,same university,satisfied
+FEMALE ,urban,2015,chemistry,15000-25000,graduation,english,not at all,demonstration,completely,partially,teachers,service,masters,same university,satisfied
+FEMALE ,urban,2015,chemistry,15000-25000,graduation,english,not at all,demonstration,completely,partially,teachers,service,masters,same university,satisfied
+FEMALE ,urban,2015,chemistry,15000-25000,graduation,english,not at all,demonstration,completely,partially,parents ,service,masters,same university,satisfied
+FEMALE ,urban,2015,chemistry,15000-25000,post graduation,english,not at all,demonstration,completely,partially,parents ,service,masters,same university,satisfied
+FEMALE ,urban,2015,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,partially,parents ,service,masters,same university,satisfied
+MALE,urban,2015,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,partially,parents ,service,masters,same university,satisfied
+MALE,urban,2014,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,partially,parents ,service,masters,same university,satisfied
+MALE,urban,2014,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,partially,parents ,service,masters,same university,satisfied
+MALE,urban,2014,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,not at all,parents ,service,masters,same university,satisfied
+MALE,urban,2014,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,not at all,parents ,service,masters,same university,satisfied
+MALE,urban,2015,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,not at all,parents ,service,masters,same university,satisfied
+MALE,urban,2015,statistics,5000-15000,intermediate,hindi,little bit,discussion method,patially,not at all,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,5000-15000,intermediate,hindi,little bit,discussion method,patially,not at all,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,5000-15000,intermediate,hindi,little bit,discussion method,completely,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,5000-15000,high school,hindi,little bit,discussion method,completely,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,5000-15000,high school,hindi,little bit,discussion method,completely,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,5000-15000,high school,hindi,little bit,discussion method,completely,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2014,statistics,5000-15000,high school,hindi,little bit,discussion method,completely,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2014,statistics,5000-15000,high school,hindi,little bit,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,graduation,english,not at all,question-answer method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,post graduation,english,not at all,question-answer method,patially,partially,parents ,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,post graduation,english,not at all,question-answer method,patially,partially,parents ,service,masters,same university,satisfied
+MALE,urban,2015,mathematics,15000-25000,post graduation,english,not at all,question-answer method,patially,partially,parents ,service,masters,same university,satisfied
+FEMALE ,urban,2015,mathematics,15000-25000,post graduation,english,not at all,discussion method,patially,partially,parents ,service,masters,same university,satisfied
+FEMALE ,urban,2015,mathematics,15000-25000,post graduation,english,not at all,discussion method,patially,partially,parents ,service,masters,same university,satisfied
+FEMALE ,rural ,2015,mathematics,5000-15000,high school,bengali,too much,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+FEMALE ,rural ,2015,mathematics,5000-15000,high school,bengali,too much,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+MALE,rural ,2015,mathematics,5000-15000,high school,bengali,too much,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+MALE,rural ,2015,mathematics,5000-15000,high school,bengali,too much,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+MALE,rural ,2015,mathematics,5000-15000,high school,bengali,too much,discussion method,patially,partially,self motivated,service,masters,same university,satisfied
+MALE,rural ,2015,mathematics,5000-15000,high school,bengali,too much,lecture method,patially,partially,self motivated,other,masters,same university,satisfied
+MALE,rural ,2015,mathematics,5000-15000,high school,bengali,too much,lecture method,patially,partially,self motivated,other,masters,same university,satisfied
+MALE,rural ,2015,mathematics,5000-15000,high school,bengali,too much,lecture method,patially,partially,self motivated,other,masters,same university,satisfied
+FEMALE ,rural ,2015,geography,5000-15000,high school,bengali,too much,lecture method,patially,partially,self motivated,other,MBA,other,satisfied
+FEMALE ,rural ,2015,geography,5000-15000,high school,bengali,too much,lecture method,patially,partially,self motivated,other,MBA,other,disdatisfied
+FEMALE ,rural ,2015,geography,5000-15000,high school,bengali,too much,lecture method,patially,partially,experienced people,service,masters,same university,disdatisfied
+FEMALE ,rural ,2015,geography,5000-15000,high school,bengali,too much,lecture method,patially,partially,experienced people,service,masters,same university,disdatisfied
+FEMALE ,rural ,2015,geography,5000-15000,high school,bengali,too much,lecture method,patially,partially,experienced people,service,masters,same university,disdatisfied
+FEMALE ,rural ,2015,geography,5000-15000,intermediate,bengali,too much,discussion method,patially,partially,experienced people,service,masters,same university,satisfied
+FEMALE ,rural ,2015,geography,5000-15000,intermediate,bengali,too much,discussion method,patially,not at all,experienced people,service,masters,same university,satisfied
+FEMALE ,urban,2015,geography,15000-25000,intermediate,bengali,too much,discussion method,patially,not at all,experienced people,service,masters,same university,satisfied
+FEMALE ,urban,2015,geography,15000-25000,intermediate,bengali,little bit,discussion method,patially,not at all,experienced people,service,masters,same university,satisfied
+FEMALE ,urban,2015,physics,15000-25000,intermediate,bengali,little bit,discussion method,patially,not at all,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,intermediate,bengali,little bit,discussion method,patially,not at all,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,not at all,experienced people,,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,completely,experienced people,service,masters,same university,satisfied
+FEMALE ,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,partially,experienced people,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,completely,teachers,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,partially,teachers,service,masters,same university,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,partially,teachers,other,masters,other,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,completely,teachers,other,masters,other,satisfied
+MALE,urban,2015,physics,15000-25000,graduation,english,not at all,discussion method,patially,not at all,teachers,other,masters,other,satisfied
+MALE,urban,2015,chemistry,15000-25000,post graduation,english,not at all,discussion method,patially,not at all,parents ,service,masters,other,satisfied
+MALE,urban,2015,chemistry,5000-15000,high school,bengali,little bit,discussion method,patially,not at all,parents ,service,MBA,other,satisfied
+MALE,urban,2015,chemistry,5000-15000,high school,bengali,little bit,discussion method,patially,not at all,experienced people,service,MBA,other,satisfied
+MALE,rural ,2014,botany,below 5000,high school,bengali,little bit,discussion method,patially,not at all,teachers,service,MBA,other,satisfied
+MALE,rural ,2014,botany,below 5000,high school,bengali,little bit,discussion method,patially,not at all,teachers,service,MBA,other,satisfied
+MALE,rural ,2014,botany,below 5000,high school,bengali,little bit,discussion method,patially,not at all,teachers,service,MBA,other,satisfied
+MALE,rural ,2014,botany,below 5000,high school,bengali,little bit,discussion method,patially,not at all,teachers,service,MBA,other,satisfied
+MALE,rural ,2014,botany,below 5000,high school,bengali,little bit,lecture method,not at all,not at all,teachers,service,MBA,other,very dissatisfied
+FEMALE ,rural ,2014,botany,below 5000,high school,bengali,too much,lecture method,not at all,not at all,teachers,service,MBA,other,very dissatisfied
+FEMALE ,rural ,2014,botany,below 5000,intermediate,bengali,too much,lecture method,not at all,not at all,teachers,service,MBA,other,very dissatisfied
+FEMALE ,rural ,2013,botany,below 5000,intermediate,bengali,too much,lecture method,not at all,not at all,teachers,acting,MBA,other,very dissatisfied
+FEMALE ,rural ,2013,botany,below 5000,intermediate,bengali,too much,lecture method,not at all,not at all,teachers,acting,MBA,other,very dissatisfied
+FEMALE ,rural ,2013,botany,below 5000,intermediate,bengali,too much,lecture method,not at all,not at all,teachers,acting,MBA,other,very dissatisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,bengali,too much,lecture method,not at all,not at all,teachers,acting,MBA,other,very dissatisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,not at all,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,not at all,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,patially,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,patially,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,patially,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,patially,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,patially,not at all,teachers,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,intermediate,hindi,too much,lecture method,patially,not at all,teachers,politics,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,high school,hindi,too much,lecture method,patially,not at all,teachers,politics,MBA,other,satisfied
+FEMALE ,rural ,2015,geology,below 5000,high school,hindi,too much,lecture method,patially,not at all,teachers,politics,MBA,other,satisfied
+FEMALE ,rural ,2014,geology,below 5000,high school,hindi,too much,lecture method,patially,not at all,teachers,politics,MBA,other,satisfied
+FEMALE ,rural ,2014,mathematics,below 5000,high school,hindi,too much,question-answer method,patially,partially,self motivated,politics,MBA,other,satisfied
+FEMALE ,rural ,2014,mathematics,below 5000,high school,hindi,too much,question-answer method,patially,partially,self motivated,politics,MBA,other,satisfied
+FEMALE ,urban,2014,mathematics,5000-15000,high school,hindi,too much,question-answer method,patially,partially,self motivated,politics,MBA,other,satisfied
+MALE,urban,2014,mathematics,5000-15000,high school,hindi,too much,question-answer method,patially,partially,self motivated,politics,MBA,other,satisfied
+MALE,urban,2014,mathematics,5000-15000,high school,bengali,little bit,question-answer method,patially,partially,self motivated,politics,masters,same university,satisfied
+MALE,urban,2014,mathematics,above 35000,p.hd,english,not at all,question-answer method,patially,partially,parents ,politics,masters,same university,satisfied
+MALE,urban,2014,mathematics,above 35000,p.hd,english,not at all,question-answer method,patially,partially,parents ,politics,masters,same university,satisfied
+FEMALE ,urban,2014,mathematics,above 35000,p.hd,english,not at all,discussion method,patially,partially,parents ,politics,masters,same university,satisfied
+MALE,urban,2014,mathematics,above 35000,p.hd,english,not at all,discussion method,patially,partially,parents ,politics,masters,same university,satisfied
+MALE,urban,2014,mathematics,above 35000,p.hd,english,not at all,discussion method,patially,partially,parents ,politics,masters,same university,satisfied
+MALE,urban,2014,computer science,,p.hd,english,not at all,discussion method,patially,partially,parents ,politics,masters,same university,satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,discussion method,patially,partially,parents ,politics,masters,same university,satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,discussion method,patially,partially,parents ,music,masters,same university,satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,discussion method,patially,partially,parents ,music,masters,same university,satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,demonstration,patially,partially,parents ,music,masters,same university,satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,demonstration,patially,partially,parents ,music,masters,same university,satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,demonstration,patially,completely,parents ,music,masters,same university,very satisfied
+MALE,urban,2015,computer science,above 35000,p.hd,english,not at all,demonstration,completely,completely,parents ,music,masters,same university,very satisfied
+MALE,urban,2015,computer science,above 35000,post graduation,english,not at all,demonstration,completely,completely,parents ,music,masters,same university,very satisfied
+MALE,urban,2015,computer science,,post graduation,english,not at all,demonstration,completely,completely,parents ,music,masters,same university,very satisfied
+MALE,urban,2013,computer science,,post graduation,english,not at all,demonstration,completely,completely,parents ,music,masters,same university,very satisfied
+MALE,urban,2013,computer science,above 35000,post graduation,english,not at all,discussion method,completely,completely,experienced people,music,masters,same university,very satisfied
+MALE,urban,2013,computer science,,post graduation,english,not at all,discussion method,completely,completely,experienced people,music,masters,other,satisfied
+MALE,urban,2013,statistics,above 35000,post graduation,english,not at all,discussion method,completely,completely,experienced people,music,masters,other,satisfied
+MALE,urban,2013,statistics,,post graduation,english,not at all,discussion method,completely,completely,experienced people,music,masters,other,satisfied
+MALE,urban,2013,statistics,above 35000,post graduation,english,not at all,discussion method,completely,completely,experienced people,music,masters,same university,satisfied
+FEMALE ,urban,2015,statistics,5000-15000,graduation,english,not at all,discussion method,completely,completely,self motivated,music,masters,same university,satisfied
+FEMALE ,urban,2015,statistics,5000-15000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+FEMALE ,urban,2015,statistics,5000-15000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+MALE,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,self motivated,service,masters,same university,very satisfied
+FEMALE ,urban,2015,statistics,15000-25000,graduation,english,not at all,discussion method,completely,completely,,service,masters,same university,very satisfied
+FEMALE ,urban,2015,statistics,15000-25000,graduation,bengali,little bit,discussion method,completely,completely,self motivated,writing,,same university,very satisfied
+FEMALE ,urban,2015,physics,,graduation,bengali,not at all,demonstration,completely,partially,self motivated,other,masters,other,very satisfied
+FEMALE ,urban,2015,physics,15000-25000,graduation,bengali,not at all,demonstration,completely,partially,self motivated,other,masters,other,very satisfied
+FEMALE ,urban,2015,physics,15000-25000,graduation,bengali,little bit,demonstration,completely,partially,self motivated,other,masters,other,satisfied
+FEMALE ,urban,2015,physics,15000-25000,high school,bengali,not at all,demonstration,completely,partially,self motivated,other,masters,same university,satisfied
+FEMALE ,urban,2015,physics,15000-25000,high school,bengali,not at all,demonstration,completely,partially,experienced people,service,masters,same university,satisfied
+FEMALE ,urban,2015,physics,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,service,masters,same university,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,acting,masters,same university,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,acting,masters,same university,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,acting,MBA,other,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,bengali,too much,demonstration,completely,partially,experienced people,sports,MBA,other,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,hindi,too much,demonstration,completely,partially,experienced people,sports,MBA,other,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,high school,hindi,too much,demonstration,completely,partially,experienced people,sports,MBA,other,satisfied
+FEMALE ,rural ,2015,zoology,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,zoology,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,botany,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,botany,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,botany,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,sports,MBA,other,satisfied
+MALE,rural ,2015,botany,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,politics,MBA,other,satisfied
+MALE,rural ,2015,botany,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,politics,MBA,other,satisfied
+MALE,rural ,2015,botany,5000-15000,intermediate,hindi,little bit,demonstration,completely,completely,experienced people,politics,MBA,other,disdatisfied
+MALE,urban,2015,botany,15000-25000,intermediate,hindi,too much,demonstration,completely,completely,experienced people,politics,MBA,other,disdatisfied
+MALE,urban,2015,botany,15000-25000,,hindi,too much,demonstration,completely,completely,experienced people,politics,NO,other,disdatisfied
+MALE,urban,2015,botany,15000-25000,graduation,bengali,too much,demonstration,completely,completely,teachers,politics,MBA,other,disdatisfied
+MALE,urban,2015,botany,15000-25000,graduation,bengali,too much,demonstration,completely,completely,teachers,politics,MBA,other,disdatisfied
+FEMALE ,urban,2015,botany,15000-25000,graduation,bengali,little bit,demonstration,completely,completely,teachers,politics,MBA,other,disdatisfied
+FEMALE ,urban,2015,botany,15000-25000,graduation,bengali,not at all,demonstration,completely,completely,teachers,politics,MBA,other,very dissatisfied
+FEMALE ,urban,2015,botany,5000-15000,graduation,bengali,little bit,demonstration,completely,not at all,teachers,politics,MBA,other,very dissatisfied
+FEMALE ,urban,2015,botany,5000-15000,graduation,bengali,little bit,demonstration,completely,not at all,teachers,politics,MBA,other,very dissatisfied
+FEMALE ,urban,2015,botany,5000-15000,graduation,bengali,little bit,demonstration,completely,not at all,teachers,politics,NO,other,very dissatisfied
+FEMALE ,urban,2015,botany,5000-15000,graduation,bengali,little bit,demonstration,completely,not at all,teachers,writing,others,other,very dissatisfied
+FEMALE ,urban,2015,botany,5000-15000,graduation,bengali,little bit,demonstration,patially,not at all,teachers,writing,NO,other,disdatisfied
+FEMALE ,urban,2015,botany,5000-15000,graduation,bengali,little bit,demonstration,patially,not at all,teachers,writing,others,other,disdatisfied
